@@ -3,9 +3,9 @@ package main
 import (
 	"fmt"
 
-	"github.com/dewedeth/modlib"
-	"github.com/dewedeth/modlib/internal/auth"
-	"github.com/dewedeth/modlib/serverlib"
+	"github.com/eliben/modlib"
+	"github.com/eliben/modlib/internal/auth"
+	"github.com/eliben/modlib/serverlib"
 )
 
 func main() {
